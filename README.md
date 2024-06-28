@@ -1,2 +1,2 @@
 # nextjs-dashboard
-Get use to Nextjs
+Get used to Nextjs
